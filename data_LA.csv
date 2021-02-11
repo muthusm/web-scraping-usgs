@@ -1,0 +1,62 @@
+StationNumber,Station name,Date/Time,"pH, water,unfltrd field, std units","Specificconductance,wat unfuS/cm @25 degC","Temperature, water, deg C","Temperature, water, deg F","Chloro-phylls, phyto-plnktn,uncorr, ug/L","Dissolvedoxygen,percentof sat-uration","Dissolvedoxygen, mg/L","Nitrate +nitrite water, fltrd, mg/L as N","Salinity, water,unfltrd ppth","Turbidity, NTU",county
+08041910,"Sabine Lk site SAB2 nr Sabine Pass, TX",01/27 11:00 CST,--,"4,220",16.7,--,--,--,--,--,2.2,--,Undefined
+301001089442600,"Rigolets at Hwy 90 near Slidell, LA",02/11 00:30 CST,--,"15,200",14.5,--,--,--,--,--,8.8,--,Lake Pontchartrain Basin
+07381150,"Bayou Lafourche at Lockport, LA",02/11 00:30 CST,--,412,15.2,--,--,--,--,--,0.2,--,Mississippi River Delta Basin
+07381235,"GIWW West of Bayou Lafourche at Larose, LA",10/24 09:00 CDT,--,"3,440",22.7,--,--,--,--,--,1.8,--,Mississippi River Delta Basin
+07381328,"Houma Navigation Canal at Dulac, LA",02/11 00:00 CST,--,Dis,Dis,--,--,--,--,--,Dis,--,Mississippi River Delta Basin
+07381349,"Caillou Lake (Sister Lake) SW of Dulac, LA",02/11 00:00 CST,--,"21,300",17.7,--,--,--,--,--,13,--,Mississippi River Delta Basin
+073813498,"Caillou Bay SW of Cocodrie, LA",02/11 00:00 CST,--,"40,000",18.0,--,--,--,--,--,26,--,Mississippi River Delta Basin
+07381350,"Company Canal at Hwy 1 at Lockport, LA",02/11 00:00 CST,--,411,15.2,--,--,--,--,--,0.2,--,Mississippi River Delta Basin
+07381355,"Company Canal at Salt Barrier near Lockport, LA",02/11 00:00 CST,--,399,18.5,--,--,--,--,--,0.2,--,Mississippi River Delta Basin
+073814675,"Bayou Boeuf at Railroad Bridge at Amelia, LA",02/11 00:00 CST,--,264,15.6,--,--,--,--,--,0.1,--,Mississippi River Delta Basin
+07386880,"Vermilion River at Surrey St. at Lafayette, LA",02/11 00:00 CST,--,--,15.4,--,--,--,7.3,--,--,--,Calcasieu-Mermentau-Vermilion River Basins
+07387040,"Vermilion Bay near Cypremort Point, LA",02/11 00:00 CST,--,"5,440",15.8,--,--,--,--,--,2.9,--,Calcasieu-Mermentau-Vermilion River Basins
+07387050,"Vermilion Bay(B. Fearman) nr Intracoastal City, LA",02/11 00:00 CST,--,"11,300",18.2,--,--,--,--,--,6.4,--,Calcasieu-Mermentau-Vermilion River Basins
+08014500,"Ouiska Chitto Creek Near Oberlin, LA",02/11 00:00 CST,--,--,16.5,--,--,--,--,--,--,--,Calcasieu-Mermentau-Vermilion River Basins
+08017044,"Calcasieu River at I-10 at Lake Charles, LA",02/11 00:00 CST,--,"10,300",--,--,--,--,--,--,5.8,--,Calcasieu-Mermentau-Vermilion River Basins
+,Elevation:      1.000,02/11 00:00 CST,--,--,14.6,--,--,--,--,--,--,--,Calcasieu-Mermentau-Vermilion River Basins
+08017095,"North Calcasieu Lake near Hackberry, LA",02/11 00:00 CST,--,"22,400",16.8,--,--,--,--,--,13,--,Calcasieu-Mermentau-Vermilion River Basins
+08017118,"Calcasieu River at Cameron, LA",02/11 00:00 CST,--,"38,500",15.6,--,--,--,--,--,24,--,Calcasieu-Mermentau-Vermilion River Basins
+07374000,"Mississippi River at Baton Rouge, LA",02/11 00:00 CST,8.1,333,6.5,--,--,--,11.5,--,0.2,--,Mississippi-Atchafalaya River Basins
+07381600,"Lower Atchafalaya River at Morgan City, LA",02/11 00:00 CST,9.9,364,8.5,--,--,--,10.8,--,0.2,--,Mississippi-Atchafalaya River Basins
+07380245,"Southwestern Louisiana Canal E of Leeville, LA",02/10 23:45 CST,--,"33,500",19.1,--,--,--,--,--,21,--,Mississippi River - Barataria Basin
+07380249,"Caminada Pass NW of Grand Isle, LA",Mississippi River - Barataria Basin
+,[Computed from spec cond],02/11 00:00 CST,--,--,--,--,--,--,--,--,22,--,Mississippi River - Barataria Basin
+07380251,"Barataria Bay N of Grand Isle, LA",02/10 12:00 CST,7.4,"26,800",16.7,--,--,--,9.0,--,16,--,Mississippi River - Barataria Basin
+073802511,"Barataria Waterway at Mud Lake S of Lafitte, LA",02/11 00:00 CST,--,"28,600",17.6,--,--,--,--,--,18,--,Mississippi River - Barataria Basin
+073802512,"Hackberry Bay NW of Grand Isle, LA",02/11 00:00 CST,8.2,"18,300",17.9,--,--,--,8.0,--,11,--,Mississippi River - Barataria Basin
+073802514,Barataria Waterway at Champagne Bay nr Grand Isle,Mississippi River - Barataria Basin
+,[Computed from spec cond],02/11 00:00 CST,--,--,--,--,--,--,--,--,20,--,Mississippi River - Barataria Basin
+073802516,"Barataria Pass at Grand Isle, LA",02/11 00:00 CST,--,"24,500",18.4,--,--,--,--,--,15,--,Mississippi River - Barataria Basin
+07380255,"Bayou Dupont nr Round Lake S of Myrtle Grove, LA",10/28 17:30 CDT,7.7,--,25.1,--,--,--,5.8,--,--,--,Mississippi River - Barataria Basin
+,,10/28 15:30 CDT,--,"22,400",--,--,--,--,--,--,13,--,Mississippi River - Barataria Basin
+07380260,"Empire Waterway south of Empire, LA",02/11 00:00 CST,--,"32,000",--,--,--,--,--,--,--,--,Mississippi River - Barataria Basin
+,[Computed from Spec Cond],02/11 00:00 CST,--,--,--,--,--,--,--,--,20,--,Mississippi River - Barataria Basin
+07380330,"Bayou Perot at Point Legard near Cutoff, LA",02/10 23:30 CST,8.2,"3,530",17.1,--,--,--,9.2,--,1.9,--,Mississippi River - Barataria Basin
+07380335,"Little Lake Near Cutoff, LA",02/11 00:00 CST,--,"5,990",18.0,--,--,--,--,--,3.2,--,Mississippi River - Barataria Basin
+291929089562600,"Barataria Bay near Grand Terre Island, LA",02/11 00:00 CST,--,"36,400",17.4,--,--,--,--,--,23,--,Mississippi River - Barataria Basin
+292800090060000,"Little Lake near Bay Dosgris E of Galliano, LA",02/11 00:00 CST,7.9,"20,700",17.6,--,--,--,9.5,--,12,--,Mississippi River - Barataria Basin
+292859090004000,"Barataria Waterway S of Lafitte, LA",04/29 13:00 CDT,--,"9,870",22.7,--,--,--,--,--,5.5,--,Mississippi River - Barataria Basin
+2951190901217,"L. Cataouatche at Whiskey Canal S of Waggaman, LA",02/11 00:00 CST,--,427,15.5,--,--,--,--,--,0.2,--,Mississippi River - Barataria Basin
+295501090190400,"Davis Pond Freshwater Diversion near Boutte, LA",02/11 00:00 CST,--,353,6.9,--,--,--,--,--,0.2,--,Mississippi River - Barataria Basin
+073745253,"Reggio Canal near Wills Point, LA",02/07 18:00 CST,--,536,11.3,--,--,--,--,--,0.3,--,Mississippi River - Breton Sound Basin
+073745257,Crooked B. NW of L. Cuatro Caballo near Delacroix,02/11 00:00 CST,--,"7,900",19.6,--,--,--,--,--,4.4,--,Mississippi River - Breton Sound Basin
+073745258,"Cow Bayou at American Bay nr Pointe-A-La-Hache, LA",02/11 00:00 CST,--,--,14.9,--,--,--,--,--,--,--,Mississippi River - Breton Sound Basin
+,,02/10 23:00 CST,--,600,--,--,--,--,--,--,0.3,--,Mississippi River - Breton Sound Basin
+07374526,"Black Bay nr Snake Island nr Pointe-A-La-Hache, LA",02/11 00:00 CST,--,"21,800",15.8,--,--,--,--,--,13,--,Mississippi River - Breton Sound Basin
+07374527,"Northeast Bay Gardene near Point-A-LA-Hache, LA",02/11 00:00 CST,--,"16,200",16.0,--,--,--,--,--,9.4,--,Mississippi River - Breton Sound Basin
+073745275,"Black Bay nr Stone Island nr Pointe-A-La-Hache, LA",02/11 00:00 CST,--,"19,800",15.1,--,--,--,--,--,12,--,Mississippi River - Breton Sound Basin
+295124089542100,"Caernarvon Outfall Channel at Caernarvon, LA",02/11 00:00 CST,--,366,7.0,--,--,--,--,--,0.2,--,Mississippi River - Breton Sound Basin
+300722089150100,Mississippi Sound near Grand Pass,02/11 00:00 CST,--,"44,300",15.4,--,--,--,--,--,29,--,Mississippi River - Breton Sound Basin
+292952089453800,CRMS0282-H01-RT,10/28 17:00 CDT,--,***,***,--,--,--,--,--,***,--,Coastwide Reference Monitoring System (CRMS)
+292952090565300,CRMS0411-H01-RT,02/11 00:00 CST,--,296,15.4,--,--,--,--,--,0.1,--,Coastwide Reference Monitoring System (CRMS)
+293229091230800,CRMS0465-H01-RT,02/11 00:00 CST,--,288,--,--,--,--,--,--,0.1,--,Coastwide Reference Monitoring System (CRMS)
+,,02/10 23:00 CST,--,--,0.2,--,--,--,--,--,--,--,Coastwide Reference Monitoring System (CRMS)
+293809092361500,CRMS0609-H01-RT,02/10 23:00 CST,--,--,Eqp,--,--,--,--,--,--,--,Coastwide Reference Monitoring System (CRMS)
+,,09/16 15:00 CDT,--,Eqp,--,--,--,--,--,--,Eqp,--,Coastwide Reference Monitoring System (CRMS)
+294045092492300,CRMS0615-H01-RT,02/11 00:00 CST,--,"35,400",21.9,--,--,--,--,--,22,--,Coastwide Reference Monitoring System (CRMS)
+294717092250000,CRMS0568-H01-RT,02/11 00:00 CST,--,"3,100",20.4,--,--,--,--,--,1.6,--,Coastwide Reference Monitoring System (CRMS)
+295231093100100,CRMS2418-H01-RT,02/11 00:00 CST,--,"12,100",20.2,--,--,--,--,--,6.9,--,Coastwide Reference Monitoring System (CRMS)
+295744093303800,CRMS0651-H01-RT,02/11 00:00 CST,--,"2,100",18.6,--,--,--,--,--,1.1,--,Coastwide Reference Monitoring System (CRMS)
+300602090375100,CRMS5373-H01-RT,02/11 00:00 CST,--,517,16.2,--,--,--,--,--,0.3,--,Coastwide Reference Monitoring System (CRMS)
+301324090382400,CRMS0061-H01-RT,02/11 00:00 CST,--,202,17.9,--,--,--,--,--,0.1,--,Coastwide Reference Monitoring System (CRMS)

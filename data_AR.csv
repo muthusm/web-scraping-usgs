@@ -1,0 +1,96 @@
+StationNumber,Station name,Date/Time,"Temperature, water, deg C","Dissolvedoxygen, mg/L","Specificconductance,wat unfuS/cm @25 degC","pH, water,unfltrd field, std units","Turbidity, IR LED light,det ang90 deg, FNU","Nitrate +nitrite water, fltrd, mg/L as N","Dissolvedsolids,sum ofconsti-tuents, mg/L","Oxidation re-duction potential, mV","Suspnd.sedimnt conc,wat unfest. byregres, mg/L",county
+07264500,"BAYOU METO NR STUTTGART, AR",02/10 23:45 CST,5.3,--,136,--,--,--,--,--,--,Undefined
+343826091361301,01S06W12BAB2,02/10 23:00 CST,19.7,--,754,--,--,--,--,--,--,Undefined
+343826091361302,01S06W12BAB1,02/11 00:00 CST,18.6,--,"1,530",--,--,--,--,--,--,Undefined
+07048495,"Town Branch at Armstrong St. at Fayetteville, AR",02/11 00:15 CST,1.5,--,545,--,7.0,--,--,--,--,White River Basin
+07048550,"West Fork White River east of Fayetteville, AR",02/11 00:30 CST,1.5,--,196,--,Eqp,--,--,--,--,White River Basin
+07048600,"White River near Fayetteville, AR",02/10 09:00 CST,4.0,12.6,88,7.1,16.4,--,--,--,--,White River Basin
+07049050,"War Eagle Creek at War Eagle, AR",02/11 00:00 CST,4.5,13.3,179,8.1,2.9,--,--,--,--,White River Basin
+07049691,White River at Beaver Dam near Eureka Springs,01/15 09:00 CST,Ssn,Ssn,--,--,--,--,--,--,--,White River Basin
+07054501,White River at Bull Shoals Dam near Flippin,01/14 11:30 CST,Ssn,Ssn,--,--,--,--,--,--,--,White River Basin
+07054502,White River below Bull Shoals Dam at Bull Shoals,01/14 10:30 CST,Ssn,Ssn,--,--,--,--,--,--,--,White River Basin
+07054527,White River below Bull Shoals Dam near Fairview,01/14 10:45 CST,Ssn,Ssn,--,--,--,--,--,--,--,White River Basin
+07055646,"Buffalo River near Boxley, AR",02/11 00:30 CST,6.8,--,--,--,--,--,--,--,--,White River Basin
+07055660,"Buffalo River at Ponca, AR",02/11 00:30 CST,Eqp,--,--,--,--,--,--,--,--,White River Basin
+07055680,"Buffalo River at Pruitt, AR",10/29 17:15 CDT,Eqp,--,--,--,--,--,--,--,--,White River Basin
+07060000,"North Fork Riv US of Dry Ck bl Norfork Dam, AR",White River Basin
+,"Left Bank, [Left Bank]",01/13 15:00 CST,Ssn,Ssn,--,--,--,--,--,--,--,White River Basin
+,[Right Bank],01/13 15:15 CST,Ssn,--,--,--,--,--,--,--,--,White River Basin
+,,12/31 23:45 CST,--,10.8,--,--,--,--,--,--,--,White River Basin
+07060500,"White River at Calico Rock, AR",White River Basin
+,From Thermistor,02/11 00:15 CST,7.2,--,--,--,--,--,--,--,--,White River Basin
+07060710,"North Sylamore Creek near Fifty Six, AR",02/11 00:00 CST,4.2,--,--,--,--,--,--,--,--,White River Basin
+07069190,Mammoth Spring at Mammoth Spring,02/11 00:15 CST,Dis,--,--,--,--,--,--,--,--,White River Basin
+07074000,"Strawberry River near Poughkeepsie, AR",02/11 00:00 CST,4.9,--,--,--,--,--,--,--,--,White River Basin
+07075000,"Middle Fork of Little Red River at Shirley, AR",02/11 00:00 CST,4.7,--,--,--,--,--,--,--,--,White River Basin
+07075270,"South Fork of Little Red River near Scotland, AR",02/11 00:15 CST,4.7,12.2,21,6.1,4.3,--,--,--,6.6,White River Basin
+07075300,"South Fork of Little Red River at Clinton, AR",02/11 00:00 CST,Dis,--,--,--,--,--,--,--,--,White River Basin
+07076000,Little Red River near Heber Springs,02/11 00:00 CST,7.9,10.9,--,--,--,--,--,--,--,White River Basin
+07076517,"Little Red River near Dewey, AR",02/10 23:45 CST,7.4,--,--,--,--,--,--,--,--,White River Basin
+07337000,"Red River at Index, AR",02/11 00:00 CST,9.0,--,--,--,--,--,--,--,--,Red River Basin
+07340300,"Cossatot River near Vandervoort, AR",02/11 00:30 CST,6.5,--,--,--,--,--,--,--,--,Red River Basin
+07355860,"Board Camp Cr nr Wolf Pen Gap Rec nr Nunley, AR",02/11 00:00 CST,6.1,--,25,--,2.0,--,--,--,--,Red River Basin
+07355870,"Gap Cr nr Wolf Pen Gap Rec Area nr Nunley, AR",02/11 00:00 CST,5.6,--,32,--,2.8,--,--,--,--,Red River Basin
+07359002,"Ouachita River at Remmel Dam above Jones Mill, AR",12/08 14:15 CST,12.2,--,--,--,--,--,--,--,--,Red River Basin
+07362591,"Alum Fork Saline River at Winona Dam at Reform, AR",Red River Basin
+,STEP 01,02/10 06:01 CST,6.8,11.0,20,6.6,2.3,--,--,--,--,Red River Basin
+,STEP 02,02/10 06:03 CST,6.8,11.0,20,6.6,2.4,--,--,--,--,Red River Basin
+,STEP 03,02/10 06:04 CST,6.8,11.0,20,6.6,2.1,--,--,--,--,Red River Basin
+,STEP 04,02/10 06:05 CST,6.8,11.0,20,6.6,2.6,--,--,--,--,Red River Basin
+,STEP 05,02/10 06:07 CST,6.8,11.0,20,6.6,2.7,--,--,--,--,Red River Basin
+,STEP 06,02/10 06:08 CST,6.8,11.0,20,6.7,2.4,--,--,--,--,Red River Basin
+,STEP 07,02/10 06:10 CST,6.7,11.0,20,6.6,2.7,--,--,--,--,Red River Basin
+,STEP 08,02/10 06:11 CST,6.7,11.0,20,6.6,3.0,--,--,--,--,Red River Basin
+,STEP 09,02/10 06:12 CST,6.7,11.0,20,6.6,2.5,--,--,--,--,Red River Basin
+,STEP 10,02/10 06:14 CST,6.7,11.0,20,6.6,2.2,--,--,--,--,Red River Basin
+,STEP 11,02/10 06:15 CST,6.7,11.0,20,6.6,2.2,--,--,--,--,Red River Basin
+,STEP 12,02/10 06:16 CST,6.7,10.9,20,6.7,2.7,--,--,--,--,Red River Basin
+,STEP 13,02/10 06:18 CST,6.7,10.9,20,6.7,2.7,--,--,--,--,Red River Basin
+,STEP 14,02/10 06:19 CST,6.7,11.0,20,6.6,2.3,--,--,--,--,Red River Basin
+,Temphigh,02/11 00:30 CST,7.7,--,--,--,--,--,--,--,--,Red River Basin
+,Templow,02/11 00:30 CST,7.3,--,--,--,--,--,--,--,--,Red River Basin
+07364130,"Deep Bayou near Star City, AR",02/11 00:15 CST,6.8,--,295,--,56.4,--,--,--,--,Red River Basin
+07364133,"Bayou Bartholomew at Garrett Bridge, AR",06/19 10:30 CDT,25.4,--,95,--,--,--,--,--,--,Red River Basin
+,,06/14 23:15 CDT,--,--,--,--,64.8,--,--,--,--,Red River Basin
+071948095,"Mud Creek near Johnson, AR",02/11 00:15 CST,2.9,--,387,--,Eqp,--,--,--,--,Arkansas River Basin
+07194880,"Osage Creek near Cave Springs, AR",02/10 23:45 CST,8.3,--,427,--,15.7,--,--,--,24.8,Arkansas River Basin
+07194933,"Spring Creek at Hwy 112 nr Springdale, AR",02/11 00:45 CST,7.4,--,437,--,30.3,--,--,--,--,Arkansas River Basin
+07263296,"Maumelle River near Wye, AR",02/10 23:45 CST,5.4,12.3,27,6.7,4.2,--,--,--,3.5,Arkansas River Basin
+072632966,"Lake Maumelle at State Hwy 10 near Wye, AR",02/11 00:15 CST,5.7,11.3,26,6.2,11.8,--,--,--,--,Arkansas River Basin
+072632995,Lake Maumelle at Natural Steps,Arkansas River Basin
+,[Sensor 1 DO],02/05 06:00 CST,--,11.1,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 1 Water Temperature],02/11 00:00 CST,7.0,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 10 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 10 Water Temperature],02/11 00:00 CST,7.1,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 2 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 2 Water Temperature],02/11 00:00 CST,7.1,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 3 DO],02/11 00:00 CST,--,10.9,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 3 Water Temperature],02/11 00:00 CST,7.1,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 4 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 4 Water Temperature],02/11 00:00 CST,7.0,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 5 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 5 Water Temperature],02/11 00:00 CST,7.0,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 6 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 6 Water Temperature],02/11 00:00 CST,7.0,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 7 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 7 Water Temperature],02/11 00:00 CST,7.1,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 8 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 8 Water Temperature],02/11 00:00 CST,7.1,--,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 9 DO],02/11 00:00 CST,--,0.0,--,--,--,--,--,--,--,Arkansas River Basin
+,[Sensor 9 Water Temperature],02/11 00:00 CST,7.1,--,--,--,--,--,--,--,--,Arkansas River Basin
+07263555,"Fourche Creek at Univ. Avenue at Little Rock, AR",02/10 23:45 CST,Dis,--,--,--,--,--,--,--,--,Arkansas River Basin
+07263878,"Salt Bayou Ditch nr Humphrey, AR",02/10 23:45 CST,5.0,--,211,--,68.8,--,--,--,--,Arkansas River Basin
+072638805,"Fish Lake Ditch near Altheimer, AR",02/11 00:30 CST,5.5,--,341,--,59.3,--,--,--,--,Arkansas River Basin
+07264000,"Bayou Meto near Lonoke, AR",02/10 23:45 CST,5.0,--,79,--,--,--,--,--,--,Arkansas River Basin
+07047942,"LAnguille River near Colt, AR",02/11 00:00 CST,--,--,234,--,--,--,--,--,--,St. Francis River Basin
+343048093030401,02S19W33CBD1 Hot Springs,Groundwater
+,[Specific Conductance @ 25C],02/11 00:00 CST,--,--,Eqp,--,--,--,--,--,--,Groundwater
+343048093031301,Quapaw Spring,02/10 23:00 CST,60.9,--,--,--,--,--,--,--,--,Groundwater
+343049093031301,Fordyce Spr. 46 in Fordyce Bath House @ HOSP N.P.,02/10 23:00 CST,57.4,--,--,--,--,--,--,--,--,Groundwater
+343050093031201,Superior Spr. in Superior Bath House @ HOSP N.P.,02/10 23:00 CST,64.1,--,--,--,--,--,--,--,--,Groundwater
+343052093031301,Hale Spr. in Hale Bath House @ HOSP N.P.,02/10 23:00 CST,62.9,--,--,--,--,--,--,--,--,Groundwater
+343054093031201,Spring 49 @ HOSP N.P.,02/10 23:00 CST,Dis,--,--,--,--,--,--,--,--,Groundwater
+343055093031301,Spring 9 @ HOSP N.P.,02/03 14:00 CST,Dis,--,--,--,--,--,--,--,--,Groundwater
+343056093030901,Crystal Spring (8) @ HOSP N.P.,02/10 23:00 CST,Dis,--,--,--,--,--,--,--,--,Groundwater
+343057093031301,Arscenic Spring (17) @ HOSP N.P.,02/10 23:00 CST,Dis,--,--,--,--,--,--,--,--,Groundwater
+343058093030901,Spring 47 @ HOSP N.P.,02/10 23:00 CST,Dis,--,--,--,--,--,--,--,--,Groundwater

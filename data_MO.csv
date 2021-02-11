@@ -1,0 +1,52 @@
+StationNumber,Station name,Date/Time,"Specificconductance,wat unfuS/cm @25 degC","pH, water,unfltrd field, std units","Temperature, water, deg C","Dissolvedoxygen, mg/L","Dissolvedoxygen,percentof sat-uration","Turbidity, IR LED light,det ang90 deg, FNU","Nitrate +nitrite water,in situmg/L as","fDOM fluor-escence water,in situ ug/L QSE",county
+07020850,"Mississippi River at Cape Girardeau, MO",02/10 23:45 CST,499,8.3,1.2,13.4,95,35.3,1.3,14.40,MISSISSIPPI RIVER MAIN STEM
+06813500,"Missouri River at Rulo, NE",02/11 00:30 CST,--,--,0.1,--,--,--,--,--,MISSOURI RIVER MAIN STEM
+06818000,"Missouri River at St. Joseph, MO",02/11 00:30 CST,789,--,-0.0,--,--,5.0,--,--,MISSOURI RIVER MAIN STEM
+,Optical DO,02/11 00:30 CST,--,--,--,14.0,--,--,--,--,MISSOURI RIVER MAIN STEM
+06893060,"Missouri River at Randolph, MO",02/10 23:45 CST,--,--,-0.0,--,--,9.9,--,--,MISSOURI RIVER MAIN STEM
+06906500,"Missouri River at Glasgow, MO",02/11 00:30 CST,--,--,Dis,--,--,--,--,--,MISSOURI RIVER MAIN STEM
+06934500,"Missouri River at Hermann, MO",02/11 00:15 CST,617,8.3,0.2,13.7,95,16.7,2.1,11.09,MISSOURI RIVER MAIN STEM
+06892350,"KANSAS R AT DESOTO, KS",02/05 07:45 CST,--,--,--,--,--,--,Ice,--,Missouri River Basin-Blue River
+,,12/09 23:45 CST,--,--,--,--,--,--,--,50.6,Missouri River Basin-Blue River
+,[YSI EXO],02/05 07:45 CST,Ice,Ice,Ice,Ice,Ice,Ice,--,--,Missouri River Basin-Blue River
+06893100,"BLUE R AT KENNETH RD, OVERLAND PARK, KS",Missouri River Basin-Blue River
+,[YSI EXO2],02/05 12:15 CST,Ice,Ice,Ice,Ice,Ice,Ice,--,--,Missouri River Basin-Blue River
+06893390,"INDIAN C AT STATE LINE RD, LEAWOOD, KS",Missouri River Basin-Blue River
+,[YSI EXO],02/03 13:30 CST,"2,130",8.4,9.5,14.7,--,2.8,--,--,Missouri River Basin-Blue River
+06893620,"Rock Creek at Kentucky Road in Independence, MO",02/11 00:00 CST,"1,020",--,0.5,--,--,2.0,--,--,Missouri River Basin-Blue River
+,"[reinstated July 22, 2020]",02/11 00:00 CST,--,--,--,13.7,--,--,--,--,Missouri River Basin-Blue River
+06893820,Little Blue R. at Lees Summit Rd in Independence,02/11 00:15 CST,699,--,0.0,13.7,94,5.0,--,--,Missouri River Basin-Blue River
+06893890,"East Fork Little Blue River near Blue Springs, MO",06/10 13:30 CDT,Dis,--,Dis,--,Dis,Dis,--,--,Missouri River Basin-Blue River
+06893970,"Spring Branch Ck at Holke Rd in Independence, MO",09/04 14:15 CDT,Dis,--,Dis,--,--,Dis,--,--,Missouri River Basin-Blue River
+06894000,"Little Blue River near Lake City, MO",02/11 00:30 CST,584,--,0.0,15.9,109,8.0,--,--,Missouri River Basin-Blue River
+,,08/24 19:45 CDT,--,Dis,--,--,--,--,--,--,Missouri River Basin-Blue River
+06899900,"Medicine Creek at Lucerne, MO",02/11 00:00 CST,--,--,--,--,Ssn,--,--,--,Missouri River Basin-Grand River
+,,02/10 23:45 CST,Ssn,--,Ssn,--,--,Ssn,--,--,Missouri River Basin-Grand River
+,,02/10 23:30 CST,--,--,--,--,--,--,Ssn,--,Missouri River Basin-Grand River
+,,01/18 16:45 CST,--,--,--,Ssn,--,--,--,--,Missouri River Basin-Grand River
+,,11/18 11:45 CST,--,Ssn,--,--,--,--,--,--,Missouri River Basin-Grand River
+06900050,"Medicine Creek near Laredo, MO",02/11 00:30 CST,--,--,--,--,Ssn,--,--,--,Missouri River Basin-Grand River
+,,02/11 00:15 CST,--,--,Ssn,--,--,Ssn,--,--,Missouri River Basin-Grand River
+,,02/11 00:00 CST,--,--,--,--,--,--,Ssn,--,Missouri River Basin-Grand River
+,,11/18 17:00 CST,Ssn,--,--,--,--,--,--,--,Missouri River Basin-Grand River
+,,11/18 16:00 CST,--,Ssn,--,Ssn,--,--,--,--,Missouri River Basin-Grand River
+06901500,"Locust Creek near Linneus, MO",02/11 00:15 CST,Ssn,--,--,--,--,Ssn,--,--,Missouri River Basin-Grand River
+,,02/11 00:00 CST,--,--,Ssn,--,--,--,--,--,Missouri River Basin-Grand River
+,,02/10 23:30 CST,--,--,--,--,--,--,Ssn,--,Missouri River Basin-Grand River
+,,11/17 15:15 CST,--,Ssn,--,Ssn,Ssn,--,--,--,Missouri River Basin-Grand River
+06902000,"Grand River near Sumner, MO",11/06 12:00 CST,--,--,--,--,--,--,Ssn,--,Missouri River Basin-Grand River
+,,09/07 22:45 CDT,--,--,--,--,--,Ssn,--,--,Missouri River Basin-Grand River
+,,12/11 14:45 CST,--,--,3.0,--,--,--,--,--,Missouri River Basin-Grand River
+06918250,"Osage River at Taberville, MO",02/10 23:30 CST,--,--,0.3,--,--,--,--,--,Missouri River Basin-Osage River
+06926080,"Osage River at Tuscumbia, MO",02/11 00:00 CST,--,--,2.7,--,--,--,--,--,Missouri River Basin-Osage River
+06926290,"Tavern Creek below St. Elizabeth, MO",02/11 00:15 CST,--,--,0.4,--,--,--,--,--,Missouri River Basin-Osage River
+06926510,"Osage River below St. Thomas, MO",02/10 23:45 CST,--,--,2.3,--,--,--,--,--,Missouri River Basin-Osage River
+06934000,"Gasconade River near Rich Fountain, MO",02/11 00:30 CST,--,--,1.7,--,--,--,--,--,Missouri River Basin-Gasconade River
+07014000,"Huzzah Creek near Steelville, MO",02/11 00:30 CST,--,--,4.9,--,--,--,--,--,Mississippi River Basin-Meramec River
+07017610,"Big River below Bonne Terre, MO",02/11 00:30 CST,--,--,-0.0,--,--,0.3,--,--,Mississippi River Basin-Meramec River
+07053450,"White River bl Table Rock Dam near Branson, MO",02/11 00:00 CST,--,--,Ssn,Ssn,--,--,--,--,Mississippi River Basin-White River
+,,02/01 16:15 CST,Ssn,--,--,--,--,--,--,--,Mississippi River Basin-White River
+07053600,"Lake Taneycomo at School of the Ozarks, MO",02/01 15:45 CST,Ssn,--,Ssn,Ssn,--,--,--,--,Mississippi River Basin-White River
+07061270,"East Fork Black River near Lesterville, MO",02/11 00:00 CST,116,7.8,1.0,13.6,96,5.0,--,--,Mississippi River Basin-White River
+07061290,E. Fk. Black R. bl Lower Taum Sauk Reservoir,02/11 00:00 CST,97,7.6,2.6,13.0,96,3.8,--,--,Mississippi River Basin-White River
+07065200,"Jacks Fork near Mountain View, MO",02/10 23:45 CST,--,--,3.2,--,--,--,--,--,Mississippi River Basin-White River

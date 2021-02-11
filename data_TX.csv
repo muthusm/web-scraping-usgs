@@ -1,0 +1,100 @@
+StationNumber,Station name,Date/Time,"Temperature, water, deg C","Specificconductance,wat unfuS/cm @25 degC","Dissolvedoxygen, mg/L","pH, water,unfltrd field, std units","Sampling depth, feet","Stream velocity, ft/s","Turbidity, NTU","Turbidity, IR LED light,det ang90 deg, FNU",county
+08364000,"RIO GRANDE AT EL PASO, TX",02/10 23:30 MST,14.1,"4,340",--,--,--,--,--,--,Undefined
+292618099165901,TD-69-38-601 (Seco Creek Well),12/19 09:00 CST,Dis,Dis,--,--,--,--,--,--,Undefined
+07227500,"Canadian Rv nr Amarillo, TX",02/11 00:30 CST,-0.2,"4,860",--,--,--,--,--,--,Arkansas River Basin
+07311800,"S Wichita Rv nr Benjamin, TX",02/11 00:30 CST,-0.3,"42,900",--,--,--,--,--,--,Red River Basin
+07312500,"Wichita Rv at Wichita Falls, TX",02/10 23:30 CST,3.0,"6,000",--,--,--,--,--,--,Red River Basin
+07332605,"Bois D'Arc Ck at HWY 56 nr Bonham, TX",02/11 00:15 CST,3.7,566,11.2,7.9,--,--,--,--,Red River Basin
+07332622,"Bois D'Arc Ck at FM 409 nr Honey Grove, TX",02/11 00:00 CST,4.9,363,12.5,8.3,--,--,--,--,Red River Basin
+08041770,"LNVA Canal at Beaumont, TX",02/11 00:00 CST,14.9,137,9.6,7.1,--,--,--,25.6,Neches River Basin
+08048000,"W Fk Trinity Rv at Ft Worth, TX",01/17 12:30 CST,Eqp,Eqp,Eqp,Eqp,--,--,--,Eqp,Trinity River Basin
+08049500,"W Fk Trinity Rv at Grand Prairie, TX",02/11 00:30 CST,11.2,717,9.8,8.6,--,--,--,18.0,Trinity River Basin
+08052700,"Little Elm Ck nr Aubrey, TX",02/11 00:15 CST,2.7,795,14.4,--,--,--,--,--,Trinity River Basin
+,,01/25 23:15 CST,--,--,--,Eqp,--,--,--,--,Trinity River Basin
+08052745,"Doe Br at US Hwy 380 nr Prosper, TX",02/11 00:15 CST,9.6,349,Eqp,7.8,--,--,--,--,Trinity River Basin
+08057000,"Trinity Rv at Dallas, TX",02/11 00:00 CST,11.0,623,10.7,8.1,--,--,--,22.0,Trinity River Basin
+08057410,"Trinity Rv bl Dallas, TX",03/16 22:00 CDT,Eqp,Eqp,Eqp,Eqp,--,--,--,Eqp,Trinity River Basin
+08062500,"Trinity Rv nr Rosser, TX",02/11 00:30 CST,11.2,661,11.5,8.0,--,--,--,23.0,Trinity River Basin
+08065350,"Trinity Rv nr Crockett, TX",02/10 23:45 CST,12.2,626,11.1,8.5,--,--,--,21.6,Trinity River Basin
+08067074,"CWA Canal at Thompson Rd nr Baytown, TX",02/11 00:15 CST,15.1,359,10.0,7.8,--,--,--,24.8,Trinity River Basin
+08067100,"Trinity Rv nr Moss Bluff, TX",02/11 00:30 CST,15.3,369,--,--,--,--,--,--,Trinity River Basin
+08067118,"Lk Charlotte nr Anahuac, TX",02/11 00:30 CST,18.5,381,--,--,--,--,--,--,Trinity River Basin
+08067215,"Old Rv Cutoff nr Moss Bluff, TX",Trinity River Basin
+,DS from QW Meter,02/11 00:45 CST,14.7,372,--,--,--,--,--,--,Trinity River Basin
+08067252,"Trinity Rv at Wallisville, TX",Trinity River Basin
+,"Downstream of Barrier, [Downstream of Barrier]",02/11 00:15 CST,14.9,369,--,--,--,--,--,--,Trinity River Basin
+,"Upstream of Barrier, [Upstream of Barrier]",02/11 00:15 CST,14.8,367,--,--,--,--,--,--,Trinity River Basin
+,"Upstream of Lock Chamber, [Upstream of Lock Chamber]",02/11 00:15 CST,14.9,364,--,--,--,--,--,--,Trinity River Basin
+08067254,"Old Rv at Buckeye Island nr Anahuac, TX",Trinity River Basin
+,[15-Min Update],12/16 11:00 CST,10.9,--,--,--,--,--,--,--,Trinity River Basin
+08067302,"Trinity Bay site TRIN nr Anahuac, TX",02/04 13:30 CST,14.6,"15,900",--,--,--,--,--,--,Trinity River Basin
+08067303,"Trinity Bay site FISH nr Baytown, TX",01/28 15:15 CST,14.7,"16,000",--,--,--,--,--,--,Trinity River Basin
+08068000,"W Fk San Jacinto Rv nr Conroe, TX",02/11 00:15 CST,15.1,717,9.1,7.6,--,--,--,14.8,San Jacinto River Basin
+08068500,"Spring Ck nr Spring, TX",02/10 23:45 CST,14.5,486,9.6,7.9,--,--,--,18.1,San Jacinto River Basin
+08069500,"W Fk San Jacinto Rv nr Humble, TX",02/10 23:45 CST,16.8,554,10.7,8.1,--,--,--,13.4,San Jacinto River Basin
+08070200,"E Fk San Jacinto Rv nr New Caney, TX",02/11 00:00 CST,14.9,245,9.3,7.2,--,--,--,9.0,San Jacinto River Basin
+295524095072701,"SJRA E Industrial Canal nr Crosby, TX",02/11 00:30 CST,14.9,172,--,--,--,--,--,--,San Jacinto River Basin
+295554095093402,"Lk Hou at Jack's Ditch (Site 2) nr Houston, TX",San Jacinto River Basin
+,[1 ft.],02/11 00:00 CST,14.8,171,9.3,7.5,--,--,--,52.7,San Jacinto River Basin
+,[12 ft.],02/11 00:00 CST,14.7,171,9.2,7.5,--,--,--,54.1,San Jacinto River Basin
+,[14 ft.],02/11 00:00 CST,14.6,171,9.1,7.5,--,--,--,56.1,San Jacinto River Basin
+,[6 ft.],02/11 00:00 CST,14.8,171,9.3,7.5,--,--,--,52.9,San Jacinto River Basin
+295826095082200,"Lk Houston S Union Pacific RR Bridge nr Houston,TX",02/11 00:30 CST,14.8,180,9.2,7.6,--,--,--,55.4,San Jacinto River Basin
+300032095080501,"Lk Houston at FM 1960 nr Huffman, TX",San Jacinto River Basin
+,[Depth 4 ft],02/11 00:30 CST,15.1,172,9.2,7.7,--,--,--,56.2,San Jacinto River Basin
+08086212,"Hubbard Ck bl Albany, TX",02/10 22:00 CST,5.9,"2,540",--,--,--,--,--,--,Brazos River Basin
+08086290,"Big Sandy Ck abv Breckenridge, TX",02/11 00:30 CST,5.9,"3,040",--,--,--,--,--,--,Brazos River Basin
+08086400,"Hubbard Ck Res nr Breckenridge, TX",02/11 00:30 CST,7.9,694,--,7.9,--,--,--,--,Brazos River Basin
+08117300,"Brazos Rv at GIWW Flood Gates nr Freeport, TX",Brazos River Basin
+,East Lock,02/11 00:40 CST,17.1,"32,500",--,--,--,--,--,--,Brazos River Basin
+08123850,"Colorado Rv abv Silver, TX",02/11 00:00 CST,7.0,"7,360",--,--,--,--,--,--,Colorado River Basin
+08126380,"Colorado Rv nr Ballinger, TX",02/11 00:00 CST,7.1,"3,620",--,--,--,--,--,--,Colorado River Basin
+08155500,"Barton Spgs at Austin, TX",02/11 00:00 CST,21.6,675,5.0,7.0,--,--,--,1.5,Colorado River Basin
+08164504,"E Mustang Ck nr Louise, TX",02/11 00:30 CST,--,--,--,--,--,--,--,60.0,Lavaca River Basin
+08170990,"Jacobs Well Spg nr Wimberley, TX",02/11 00:30 CST,20.8,564,--,--,--,--,--,1.0,Guadalupe River Basin
+08180800,"Medina Rv nr Somerset, TX",02/10 23:45 CST,15.7,858,8.7,8.1,--,--,--,20.0,San Antonio River Basin
+08181500,"Medina Rv at San Antonio, TX",02/11 00:15 CST,18.4,"1,020",8.3,8.0,--,--,--,8.0,San Antonio River Basin
+08181800,"San Antonio Rv nr Elmendorf, TX",02/11 00:30 CST,18.3,"1,110",8.4,7.9,--,--,--,9.2,San Antonio River Basin
+08188060,"San Antonio Rv at SH 72 nr Runge, TX",02/11 00:15 CST,16.0,"1,190",9.0,8.4,--,--,--,12.1,San Antonio River Basin
+08188500,"San Antonio Rv at Goliad, TX",02/11 00:00 CST,16.2,"1,120",9.1,8.3,--,--,--,17.2,San Antonio River Basin
+293332098550701,"Medina Lk Meteorological Sta 2 nr Rio Medina, TX",08/27 08:30 CDT,28.7,--,--,--,--,--,--,--,San Antonio River Basin
+08195000,"Frio Rv at Concan, TX",02/11 00:30 CST,16.0,449,--,--,--,--,--,--,Nueces River Basin
+08211200,"Nueces Rv at Bluntzer, TX",02/11 00:00 CST,18.7,920,8.1,8.1,--,--,--,24.8,Nueces River Basin
+08211502,"Nueces Rv nr Odem, TX",Nueces River Basin
+,[from QW Sonde],02/11 00:00 CST,19.8,"21,000",--,--,--,--,--,--,Nueces River Basin
+08211503,"Rincon Bayou Channel nr Calallen, TX",08/07 15:00 CDT,31.7,"5,490",--,--,--,--,--,--,Nueces River Basin
+0821150305,"Rincon Bayou Channel nr Odem, TX",02/11 00:15 CST,18.5,"26,600",--,--,--,--,--,--,Nueces River Basin
+08371500,"Rio Grande abv Rio Conchos nr Presidio, TX",02/11 00:00 CST,13.7,"5,740",7.8,8.1,--,--,--,--,Rio Grande Basin
+08374200,"Rio Grande bl Rio Conchos nr Presidio, TX",02/11 00:00 CST,16.3,"3,030",9.8,8.1,--,--,--,--,Rio Grande Basin
+08374510,"Rio Grande Dws Santa Elena Canyon, BBNP, TX",02/10 23:45 CST,14.2,"2,970",8.5,8.2,--,--,--,--,Rio Grande Basin
+08375300,"Rio Grande at Rio Grande Village, Big Bnd NP, TX",02/11 00:00 CST,23.7,"2,180",7.0,7.9,--,--,--,--,Rio Grande Basin
+08377200,"Rio Grande at Foster Rh nr Langtry, TX",02/11 00:00 CST,16.8,"1,160",8.9,8.3,--,--,--,--,Rio Grande Basin
+08412500,"Pecos Rv nr Orla, TX",02/11 00:15 CST,11.0,"12,600",9.5,--,--,--,--,--,Rio Grande Basin
+08419000,"Pecos Rv at FM 3398 nr Pecos, TX",02/10 23:00 CST,3.3,***,12.1,--,--,--,--,--,Rio Grande Basin
+08437710,"Pecos Rv at RR 1776 nr Grandfalls, TX",02/10 23:45 CST,9.8,"23,600",Eqp,--,--,--,--,--,Rio Grande Basin
+08446500,"Pecos Rv nr Girvin, TX",02/10 23:45 CST,10.2,"22,900",6.6,--,--,--,--,--,Rio Grande Basin
+08447000,"Pecos Rv nr Sheffield, TX",02/10 23:45 CST,13.1,"15,000",9.0,--,--,--,--,--,Rio Grande Basin
+08447018,"Caroline Springs at Oasis Ranch, TX",02/10 23:45 CST,21.9,913,--,--,--,--,--,--,Rio Grande Basin
+08447300,"Pecos Rv at Brotherton Rh nr Pandale, TX",02/11 00:00 CST,14.9,"5,140",8.8,--,--,--,--,--,Rio Grande Basin
+08447410,"Pecos Rv nr Langtry, TX",02/11 00:00 CST,16.5,"3,110",9.1,--,--,--,--,--,Rio Grande Basin
+08041820,"Sabine Lk site SAB1 nr Groves, TX",01/27 14:00 CST,15.8,"7,760",--,--,--,--,--,--,Coastal Basins
+08041910,"Sabine Lk site SAB2 nr Sabine Pass, TX",01/27 11:00 CST,16.7,"4,220",--,--,--,--,--,--,Coastal Basins
+08067230,"Old Rv Lk site OLDR nr Wallisville, TX",12/19 01:45 CST,12.4,"4,560",--,--,--,--,--,--,Coastal Basins
+08067320,"Galveston Bay site BOLI nr Galveston, TX",01/28 10:45 CST,14.6,"24,000",--,--,--,--,--,--,Coastal Basins
+08117975,"E Matagorda Bay site EMB nr Matagorda, TX",02/03 13:00 CST,15.8,"40,100",--,--,--,--,--,--,Coastal Basins
+08162675,"Tres Palacios Bay site TPAL nr Palacios, TX",02/03 10:45 CST,15.5,"38,200",--,--,--,--,--,--,Coastal Basins
+08470500,"Arroyo Colorado at FM 106, Rio Hondo, TX",Coastal Basins
+,STEP 1,02/11 00:03 CST,21.0,"14,500",3.3,--,--,--,--,--,Coastal Basins
+,STEP 2,02/11 00:07 CST,21.2,"13,600",3.5,--,--,--,--,--,Coastal Basins
+,STEP 3,02/11 00:10 CST,21.4,"11,800",4.2,--,--,--,--,--,Coastal Basins
+,STEP 4,02/11 00:14 CST,22.7,"7,190",6.5,--,--,--,--,--,Coastal Basins
+,STEP 5,12/14 16:28 CST,18.9,"11,700",6.3,--,--,--,--,--,Coastal Basins
+294643095035200,"Lynchburg Res nr CWA Canal Inflow nr Baytown, TX",02/11 00:15 CST,14.7,359,10.0,7.9,--,--,--,18.6,Coastal Basins
+290802098232901,AY-68-53-928 (ASR-MW C8),Texas Undefined Basin
+,MONITOR 460 FT,03/06 10:00 CST,--,Dis,--,--,--,--,--,--,Texas Undefined Basin
+292943098354404,AY-68-36-132 (Z DED),02/11 00:00 CST,22.0,617,--,--,--,--,--,--,Texas Undefined Basin
+293252098380801,AY-68-27-610 (Parkwood Park),02/11 00:00 CST,22.2,657,--,--,--,--,--,--,Texas Undefined Basin
+293405098394201,AY-68-27-609 (Western Oak),02/11 00:00 CST,22.0,618,--,--,--,--,--,--,Texas Undefined Basin
+293516098325501,AY-68-28-211 (Shavano Park at Fawn Drive),02/11 00:00 CST,22.0,602,5.4,--,--,--,--,--,Texas Undefined Basin
+,,08/15 09:00 CDT,--,--,--,6.9,--,--,--,--,Texas Undefined Basin
+293559098284801,AY-68-29-112 (Donella),02/11 00:45 CST,22.3,738,--,--,--,--,--,--,Texas Undefined Basin

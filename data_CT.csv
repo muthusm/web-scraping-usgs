@@ -1,0 +1,33 @@
+StationNumber,Station name,Date/Time,"Temperature, water, deg C","Specificconductance,wat unfuS/cm @25 degC","pH, water,unfltrd field, std units","Dissolvedoxygen, mg/L","Dissolvedoxygen,percentof sat-uration","Nitrate +nitrite water,in situmg/L as","Turbidity, IR LED light,det ang90 deg, FNU","fDOM fluor-escence water,in situ ug/L QSE",county
+01120790,"NATCHAUG RIVER AT MARCY RD. NEAR CHAPLIN, CT",12/15 13:30 EST,Eqp,--,--,--,--,--,--,--,Thames River Basin
+01125100,"FRENCH RIVER AT NORTH GROSVENORDALE, CT",02/11 00:45 EST,0.2,268,7.0,14.8,102,--,18.4,--,Thames River Basin
+01127500,"YANTIC RIVER AT YANTIC, CT",02/11 00:45 EST,-0.1,63,6.7,14.8,--,--,Eqp,--,Thames River Basin
+01127768,"THAMES R AT GROTON, CT.",10/01 12:45 EDT,20.0,"47,000",8.0,7.4,98,--,1.3,--,Thames River Basin
+01161280,"CONNECTICUT RIVER NEAR NORTHFIELD, MA",02/11 01:00 EST,0.0,129,--,14.0,96,--,3.0,32.23,Connecticut River Basin
+,,02/01 17:15 EST,--,--,Eqp,--,--,--,--,--,Connecticut River Basin
+,Nitrate Sensor,02/11 01:00 EST,--,--,--,--,--,0.22,--,--,Connecticut River Basin
+,[(2)],02/11 01:00 EST,--,--,--,--,96,--,--,--,Connecticut River Basin
+01184000,"CONNECTICUT RIVER AT THOMPSONVILLE, CT",02/11 00:45 EST,-0.0,208,7.1,14.2,96,--,1.1,31.99,Connecticut River Basin
+,Nitrate Sensor,02/11 00:45 EST,--,--,--,--,--,0.66,--,--,Connecticut River Basin
+01184490,"BROAD BROOK AT BROAD BROOK, CT",02/11 00:45 EST,1.7,349,8.0,13.8,--,--,2.4,--,Connecticut River Basin
+01186000,"WEST BRANCH FARMINGTON RIVER AT RIVERTON, CT",02/11 01:00 EST,1.3,--,--,--,--,--,--,--,Connecticut River Basin
+01187300,"HUBBARD RIVER NEAR WEST HARTLAND, CT",02/11 01:30 EST,0.6,--,--,--,--,--,--,--,Connecticut River Basin
+01191000,"NORTH BRANCH PARK RIVER AT HARTFORD, CT",02/11 01:00 EST,-0.1,996,7.5,13.6,--,--,11.1,--,Connecticut River Basin
+01193050,"CONNECTICUT RIVER AT MIDDLE HADDAM, CT",02/11 01:15 EST,0.0,201,7.3,14.2,--,--,1.7,28.02,Connecticut River Basin
+,Nitrate sensor,02/11 01:15 EST,--,--,--,--,--,0.59,--,--,Connecticut River Basin
+01193500,"SALMON RIVER NEAR EAST HAMPTON, CT",12/15 14:15 EST,Eqp,--,--,--,--,--,--,--,Connecticut River Basin
+01194000,"EIGHTMILE RIVER AT NORTH PLAIN, CT",02/11 01:15 EST,0.0,--,--,--,--,--,--,--,Connecticut River Basin
+01194500,"EAST BRANCH EIGHTMILE RIVER NEAR NORTH LYME, CT",02/11 00:45 EST,-0.0,--,--,--,--,--,--,--,Connecticut River Basin
+01194750,"CONNECTICUT RIVER AT ESSEX, CT",Connecticut River Basin
+,at Essex Island Bottom,02/11 01:30 EST,0.4,"6,260",--,13.7,--,--,--,--,Connecticut River Basin
+,at Essex Island Top,02/11 01:30 EST,0.1,"2,560",--,13.8,--,--,1.7,30.6,Connecticut River Basin
+,,05/04 09:30 EDT,--,--,7.0,--,--,--,--,--,Connecticut River Basin
+01194796,"CONNECTICUT RIVER AT OLD LYME, CT",02/11 00:45 EST,--,--,--,--,--,0.51,--,--,Connecticut River Basin
+,Bottom,02/11 00:45 EST,3.2,"40,200",--,10.9,--,--,--,--,Connecticut River Basin
+,Top,02/11 00:45 EST,0.1,"8,140",--,13.7,--,--,1.9,28.4,Connecticut River Basin
+,,02/03 11:15 EST,--,--,Eqp,--,--,--,--,--,Connecticut River Basin
+01196500,"QUINNIPIAC RIVER AT WALLINGFORD, CT",02/11 01:00 EST,2.2,629,7.6,13.6,98,--,3.9,--,Quinnipiac River Basin
+01201487,"STILL RIVER AT ROUTE 7 AT BROOKFIELD CENTER, CT",02/11 00:45 EST,1.9,"1,180",7.8,13.8,Eqp,--,2.9,--,Housatonic River Basin
+01208837,"HOUSATONIC RIVER NR NELLS ISLAND NR STRATFORD, CT",10/01 10:00 EDT,20.4,"41,800",--,7.0,91,--,--,--,Housatonic River Basin
+,,10/01 09:45 EDT,--,--,7.9,--,--,--,4.2,--,Housatonic River Basin
+01208873,"ROOSTER RIVER AT FAIRFIELD, CT",02/11 01:30 EST,3.3,"1,230",6.8,12.5,--,--,2.1,--,Southwestern Coastal River Basin

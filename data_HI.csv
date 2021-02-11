@@ -1,0 +1,23 @@
+StationNumber,Station name,Date/Time,"Temperature, water, deg C","Turbidity, IR LED light,det ang90 deg, FNU",Suspended sedimentconcen-tration mg/L,"Suspended sediment dis-charge, ton/d","Specificconductance,wat unfuS/cm @25 degC","Count ofsamples col-lected, number","Temperature ofsensor, deg C",county
+16200000,"NF Kaukonahua Str abv RB, nr Wahiawa, Oahu, HI",02/10 20:15 HST,--,Eqp,--,--,--,38,--,Honolulu County
+16208000,"SF Kaukonahua Str at E pump, nr Wahiawa, Oahu, HI",02/10 20:00 HST,--,--,--,--,--,0.,--,Honolulu County
+16210200,"Kaukonahua Stream blw Wahiawa Reservoir, Oahu, HI",02/10 19:50 HST,--,7.0,--,--,--,0.,--,Honolulu County
+16210500,"Kaukonahua Str at Waialua, Oahu, HI",02/10 19:50 HST,--,8.0,--,--,--,0.,--,Honolulu County
+16212480,"Honouliuli Stream Tributary near Waipahu, Oahu, HI",02/10 20:30 HST,--,--,--,--,--,0.,--,Honolulu County
+16212490,"Honouliuli Str at H-1 Freeway nr Waipahu, Oahu, HI",02/10 20:15 HST,--,--,--,--,--,0.,--,Honolulu County
+16212601,"Waikele Str at Wheeler Field, Oahu, HI",02/10 20:10 HST,--,--,--,--,--,0.,--,Honolulu County
+16213000,"Waikele Str at Waipahu, Oahu, HI",02/10 20:30 HST,--,12.0,--,--,--,0.,--,Honolulu County
+16226200,"N. Halawa Str nr Honolulu, Oahu, HI",02/10 20:15 HST,--,--,--,--,--,0.,--,Honolulu County
+,[ANALITE],02/10 20:15 HST,--,1.0,--,--,--,--,--,Honolulu County
+16226400,"N. Halawa Str nr Quar. Stn. at Halawa, Oahu, HI",02/10 20:25 HST,--,--,--,--,--,0.,--,Honolulu County
+,[ANALITE],02/10 20:25 HST,--,1.0,--,--,--,--,--,Honolulu County
+16238000,"Makiki Stream at King St. bridge, Oahu, HI",02/10 19:50 HST,--,2.0,--,--,--,0.,--,Honolulu County
+16238500,"Waihi Stream at Honolulu, Oahu, HI",02/10 20:25 HST,--,5.0,--,--,--,0.,--,Honolulu County
+16244000,"Pukele Stream near Honolulu, Oahu, HI",02/10 20:40 HST,--,3.0,--,--,--,0.,--,Honolulu County
+,,02/10 20:35 HST,--,--,--,--,--,--,27.00,Honolulu County
+16247100,"Manoa-Palolo Drainage Canal at Moiliili, Oahu, HI",02/10 20:00 HST,--,3.0,--,--,--,0.,--,Honolulu County
+16249000,"Waimanalo Str at Waimanalo, Oahu, HI",02/10 20:25 HST,--,9.0,--,--,--,1,--,Honolulu County
+16265000,"Kawa Str at Kaneohe, Oahu, HI",02/10 19:50 HST,--,2.0,--,--,--,4,--,Honolulu County
+16274100,"Kaneohe Str blw Kamehameha Hwy, Oahu, HI",02/10 20:25 HST,--,7.0,--,--,--,0.,--,Honolulu County
+16415600,"Kawela Gulch near Moku, Molokai, HI",02/10 20:35 HST,--,--,--,--,--,24,--,Maui County
+16618000,"Kahakuloa Stream near Honokohau, Maui, HI",02/10 20:35 HST,18.4,--,--,--,--,--,--,Maui County

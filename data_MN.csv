@@ -1,0 +1,75 @@
+StationNumber,Station name,Date/Time,"Temperature, water, deg C","Temperature, water, deg F","Specificconductance,wat unfuS/cm @25 degC","pH, water,unfltrd field, std units","Dissolvedoxygen, mg/L","Turbidity, IR LED light,det ang90 deg, FNU",county
+475851091583201,CDN-03    Camp du Nord 3                0000248468,02/11 00:00 CST,11.4,--,631,7.8,--,30.8,Undefined
+04010510,GRAND PORTAGE RIVER AT GRAND PORTAGE MN,02/10 23:45 CST,0.1,--,--,--,--,--,Lake Superior Basin
+04015330,"KNIFE RIVER NEAR TWO HARBORS, MN",Lake Superior Basin
+,[DTS],01/10 12:00 CST,2.5,--,--,--,--,--,Lake Superior Basin
+04015438,"ST. LOUIS RIVER NEAR SKIBO, MN",02/10 23:45 CST,--,31.7,--,--,--,--,Lake Superior Basin
+04024000,"ST. LOUIS RIVER AT SCANLON, MN",02/11 00:00 CST,0.0,--,233,7.5,12.0,2.4,Lake Superior Basin
+475850091583501,CDN-07    Camp du Nord 7                0000656526,Lake Superior Basin
+,18.4 feet below LSD,03/15 12:15 CDT,6.1,--,--,--,--,--,Lake Superior Basin
+,37.5 feet below LSD,04/16 08:00 CDT,6.5,--,--,--,--,--,Lake Superior Basin
+,66.8 feet below LSD,02/03 11:15 CST,7.1,--,--,--,--,--,Lake Superior Basin
+05054000,"RED RIVER OF THE NORTH AT FARGO, ND",02/11 00:15 CST,-0.0,--,552,8.0,12.5,3.2,Red River of the North Basin
+05061500,"SOUTH BRANCH BUFFALO RIVER AT SABIN, MN",10/30 23:45 CDT,--,--,--,--,--,15.5,Red River of the North Basin
+05064500,"RED RIVER OF THE NORTH AT HALSTAD, MN",11/02 12:30 CST,Ssn,--,--,--,--,--,Red River of the North Basin
+,,10/26 16:45 CDT,--,--,Ssn,--,--,--,Red River of the North Basin
+05082500,"RED RIVER OF THE NORTH AT GRAND FORKS, ND",02/10 23:45 CST,-0.0,--,683,8.2,10.7,4.1,Red River of the North Basin
+474126096165301,WLN06     149N44W27CDBB  01 G12-R       0000620672,Red River of the North Basin
+,12.7 feet below LSD,10/29 13:00 CDT,9.6,--,--,--,--,--,Red River of the North Basin
+,13.1 feet below LSD,10/17 23:00 CDT,10.3,--,--,--,--,--,Red River of the North Basin
+05124480,"KAWISHIWI RIVER NEAR ELY, MN",01/14 23:15 CST,1.2,--,--,--,--,--,Lake of the Woods Basin
+,,10/31 00:00 CDT,--,41.1,--,--,--,--,Lake of the Woods Basin
+05133500,"RAINY RIVER AT MANITOU RAPIDS, MN",02/11 00:30 CST,0.2,--,--,--,--,--,Lake of the Woods Basin
+474428091594601,WLN08     61N13W28ADBB01  Babbitt CRN  0000786137,Lake of the Woods Basin
+,18.6 feet below LSD,02/11 00:00 CST,7.3,--,--,--,--,--,Lake of the Woods Basin
+474921093144001,WLN01     062N23W26CDCDAB01 Togo        0000612778,Lake of the Woods Basin
+,28.0 feet below LSD,02/11 00:00 CST,7.7,--,--,--,--,--,Lake of the Woods Basin
+05288580,"RICE CREEK BLW OLD HWY. 8 IN MOUNDS VIEW, MN",02/10 23:45 CST,-0.1,--,788,--,--,--,Mississippi River Basin (above Minnesota River)
+05288705,"SHINGLE CREEK AT QUEEN AVE IN MINNEAPOLIS, MN",02/03 10:00 CST,0.4,--,"1,520",--,--,--,Mississippi River Basin (above Minnesota River)
+05289800,"MINNEHAHA CREEK AT HIAWATHA AVE. IN MINNEAPOLIS,MN",02/11 00:00 CST,--,--,5,--,--,--,Mississippi River Basin (above Minnesota River)
+,,02/10 19:30 CST,-2.0,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+452012093412701,WLN05     033N27W22BCD   01 ALUS-33     0000685849,Mississippi River Basin (above Minnesota River)
+,19.7 feet below LSD,10/02 13:00 CDT,10.7,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+,20.1 feet below LSD,02/11 00:00 CST,10.4,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+,20.3 feet below LSD,07/11 07:00 CDT,9.6,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+455927095123101,WLN03     129N36W15BBBB  02 Belle River 0000708358,Mississippi River Basin (above Minnesota River)
+,19.3 feet below LSD,11/01 00:00 CDT,9.3,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+462743094025601,WU-335    046N29W18DCDBBA01 Riverton 1  0000241291,Mississippi River Basin (above Minnesota River)
+,43.5 feet below LSD,02/11 00:00 CST,9.1,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+463006094131201,LH-01     Lake Hubert MN-DNR 18000     00000243734,Mississippi River Basin (above Minnesota River)
+,16.6 feet below LSD,02/11 00:00 CST,8.5,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+473423095053301,WLN04     Bemidji Toxics Research 310D  0000273825,Mississippi River Basin (above Minnesota River)
+,33.0 feet below LSD,02/10 20:00 CST,7.0,--,369,--,--,--,Mississippi River Basin (above Minnesota River)
+,34.5 feet below LSD,02/10 20:00 CST,6.5,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+473425095052302,419C      Bemidji Toxics Research Site,Mississippi River Basin (above Minnesota River)
+,32.9 feet below LSD,02/10 20:00 CST,8.7,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+473425095052602,604B      Bemidji Toxics Research Site  0000273836,Mississippi River Basin (above Minnesota River)
+,26.6 feet below LSD,02/10 20:00 CST,10.4,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+473426095052305,533E      Bemidji Toxics Research Site,Mississippi River Basin (above Minnesota River)
+,33.0 feet below LSD,02/10 20:00 CST,9.3,--,931,--,--,--,Mississippi River Basin (above Minnesota River)
+473426095052401,9015      Bemidji Toxics Research Site,Mississippi River Basin (above Minnesota River)
+,26.9 feet below LSD,02/10 20:00 CST,10.5,--,--,--,--,--,Mississippi River Basin (above Minnesota River)
+05321995,"BLUE EARTH RIVER AT HWY 169 AT MANKATO, MN",06/25 12:15 CDT,--,--,--,--,--,Ssn,Minnesota River Basin
+05330000,"MINNESOTA RIVER NEAR JORDAN, MN",02/11 00:45 CST,--,32.4,--,--,--,--,Minnesota River Basin
+443053094591001,"LS-502    112N34W07CCCCBD01 LS-O01, recorder, LSIC",Minnesota River Basin
+,60.8 feet below LSD,02/10 22:00 CST,8.9,--,--,--,--,--,Minnesota River Basin
+05331000,"MISSISSIPPI RIVER AT ST. PAUL, MN",02/11 00:00 CST,--,32.4,--,--,--,--,Mississippi River Basin (below Minnesota River)
+435239095074801,WLN07     105N36W23DCCCBC01 Windom D28  0000620728,Mississippi River Basin (below Minnesota River)
+,17.6 feet below LSD,02/11 00:00 CST,10.5,--,--,--,--,--,Mississippi River Basin (below Minnesota River)
+435723092171801,WLN10     106N12W29ACCC 01 Marion CRN   0000817784,12/24 14:45 CST,11.4,--,--,--,--,--,Mississippi River Basin (below Minnesota River)
+444803092575101,GCSNA-01  Grey Cloud SNA MN-DNR 82068   0000817789,Mississippi River Basin (below Minnesota River)
+,97.4 feet below LSD,02/11 00:00 CST,10.5,--,--,--,--,--,Mississippi River Basin (below Minnesota River)
+05333500,"ST. CROIX RIVER NEAR DANBURY, WI",St. Croix River Basin
+,[Primary],02/11 00:00 CST,-0.0,--,--,--,--,--,St. Croix River Basin
+05340500,"ST. CROIX RIVER AT ST. CROIX FALLS, WI",10/10 10:15 CDT,12.0,--,--,--,--,--,St. Croix River Basin
+,[(2)],02/11 00:00 CST,0.1,--,--,--,--,--,St. Croix River Basin
+05341550,"ST. CROIX RIVER AT STILLWATER, MN",St. Croix River Basin
+,[ADVM],02/11 00:15 CST,--,33.2,--,--,--,--,St. Croix River Basin
+05344490,"ST. CROIX RIVER AT PRESCOTT, WI",St. Croix River Basin
+,[FROM ADVM],02/11 00:30 CST,--,32.5,--,--,--,--,St. Croix River Basin
+05355235,"MISSISSIPPI RIVER ABV RED WING BLW DIAMOND ISL, MN",02/10 23:45 CST,--,34.2,--,--,--,--,Mississippi River Basin (below St. Croix River)
+05457000,"CEDAR RIVER NEAR AUSTIN, MN",Mississippi River Basin (below St. Croix River)
+,[DTS-12],07/24 09:45 CDT,Dis,--,--,--,--,--,Mississippi River Basin (below St. Croix River)
+,,07/24 09:30 CDT,--,--,--,--,--,22.0,Mississippi River Basin (below St. Croix River)
+,[Hach],05/09 19:15 CDT,--,--,--,--,--,Ssn,Mississippi River Basin (below St. Croix River)
+05374900,"ZUMBRO RIVER AT KELLOGG, MN",10/21 17:45 CDT,--,--,--,--,--,Ssn,NON-USGS Monitoring Stations

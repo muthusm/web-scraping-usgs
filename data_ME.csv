@@ -1,0 +1,7 @@
+StationNumber,Station name,Date/Time,"Specificconductance,wat unfuS/cm @25 degC","pH, water,unfltrd field, std units","Temperature, water, deg C","Dissolvedoxygen, mg/L","Dissolvedoxygen,percentof sat-uration",county
+01018035,"Meduxnekeag River at Lowery Rd. nr Houlton, Maine",St. John River Basin
+,[Thermistor],02/11 00:45 EST,--,--,-0.2,--,--,St. John River Basin
+01018900,"West Grand Lake at Grand Lake Stream, Maine",02/11 01:00 EST,--,--,0.9,--,--,St. Croix River Basin
+01019300,"Lewy Lake at Princeton, Maine",02/11 00:45 EST,--,--,1.5,--,--,St. Croix River Basin
+01021050,"St. Croix River at Milltown, Maine",10/01 11:45 EDT,99,6.9,17.5,8.7,--,St. Croix River Basin
+01054200,"Wild River at Gilead, Maine",02/11 00:45 EST,--,--,-0.1,--,--,Androscoggin River Basin

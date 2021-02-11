@@ -1,0 +1,36 @@
+StationNumber,Station name,Date/Time,"Temperature, water, deg C","Temperature, water, deg F","Temperature, air, deg C","Temperature, air, deg F","Specificconductance,wat unfuS/cm @25 degC","Dissolvedoxygen, mg/L",,"Turbdty white light,det ang90+/-30degrees NTU","Turbidity, IR LED light,det ang90 deg, FNU","Turbidity,wat unfnear-IR 90 deg0-45deg FBRU","Nitrate +nitrite water,in situmg/L as","Nitrate +nitrite water, total, ton/d as N",county
+425435091281101,"Big Spring Fish Hatchery near Elkader, IA NADP/NTN",02/11 00:00 CST,--,--,-18.6,--,--,--,--,--,--,--,--,--,Undefined
+05412500,"Turkey River at Garber, IA",02/11 00:15 CST,--,--,--,--,--,--,--,--,--,Ssn,--,--,Turkey-Maquoketa Basin
+,,12/09 12:45 CST,--,--,--,--,--,--,--,--,--,--,Ssn,--,Turkey-Maquoketa Basin
+05420460,"Beaver Slough at 3rd Street at Clinton, IA",02/11 00:15 CST,-0.3,--,--,--,--,--,--,--,--,--,--,--,Mississippi-Wapsipinison-Crow Basin
+05420500,"Mississippi River at Clinton, IA",02/11 00:30 CST,0.2,--,--,--,--,--,--,--,--,--,--,--,Mississippi-Wapsipinison-Crow Basin
+,YSI EXO2,02/11 00:15 CST,-0.0,--,--,--,485,13.9,--,--,2.1,--,--,--,Mississippi-Wapsipinison-Crow Basin
+,"nitratax, [Nitratax]",02/11 00:15 CST,--,--,--,--,--,--,--,--,--,--,2.63,--,Mississippi-Wapsipinison-Crow Basin
+05465500,"Iowa River at Wapello, IA",02/11 00:00 CST,--,--,--,--,--,--,--,--,--,--,4.0,--,Iowa Basin
+05458300,"Cedar River at Waverly, IA",02/11 00:15 CST,-0.1,--,--,--,--,--,--,--,--,--,--,--,Cedar Basin
+05464420,"Cedar River at Blairs Ferry Road at Palo, IA",12/22 12:15 CST,--,--,--,--,--,--,--,--,--,--,Ssn,--,Cedar Basin
+,YSI EXO3,02/11 00:15 CST,Ssn,--,--,--,Ssn,Ssn,--,--,Ssn,--,--,--,Cedar Basin
+05464475,"Morgan Creek near Covington, IA",02/11 00:30 CST,0.5,--,--,--,--,--,--,--,--,--,Ssn,--,Cedar Basin
+05481000,"Boone River near Webster City, IA",02/11 00:00 CST,-0.5,--,--,--,--,--,--,--,--,--,--,--,Upper Des Moines Basin
+05482000,"Des Moines River at 2nd Avenue at Des Moines, IA",02/11 00:15 CST,Ssn,--,--,--,--,--,--,--,--,--,0.6,--,Upper Des Moines Basin
+05482300,"North Raccoon River near Sac City, IA",02/11 00:15 CST,0.3,--,--,--,--,--,--,--,--,--,12.6,--,Raccoon Basin
+05482500,"North Raccoon River near Jefferson, IA",02/10 15:30 CST,Eqp,--,--,--,--,--,--,--,--,--,--,--,Raccoon Basin
+,,12/10 12:30 CST,--,--,--,--,--,--,--,--,--,--,Ssn,--,Raccoon Basin
+05484000,"South Raccoon River at Redfield, IA",02/10 23:45 CST,Eqp,--,--,--,--,--,--,--,--,--,Ssn,--,Raccoon Basin
+05484500,"Raccoon River at Van Meter, IA",02/11 00:00 CST,0.2,--,--,--,--,--,--,--,--,--,3.0,--,Raccoon Basin
+05487520,"Des Moines River near Swan, IA",02/11 00:15 CST,0.1,--,--,--,--,--,--,--,--,--,--,--,Lower Des Moines-Fox Basin
+06486000,"Missouri River at Sioux City, IA",02/11 00:00 CST,-0.1,--,--,--,--,--,--,--,--,--,--,--,Upper Missouri-Perry-Floyd-Monona-Harrison Basin
+06601200,"Missouri River at Decatur, NE",02/11 00:00 CST,-0.0,--,--,--,--,--,--,--,--,--,--,--,Upper Missouri-Perry-Floyd-Monona-Harrison Basin
+06602020,"West Fork Ditch at Hornick, IA",02/11 00:00 CST,--,--,--,3.8,--,--,--,--,--,--,--,--,Upper Missouri-Perry-Floyd-Monona-Harrison Basin
+06604000,"Spirit Lake near Orleans, IA",02/11 00:15 CST,0.3,--,--,--,--,--,--,--,--,--,--,--,Little Sioux-Soldier Basin
+06604200,"West Okoboji Lake at Lakeside Lab near Milford, IA",02/10 23:45 CST,0.4,--,--,--,--,--,--,--,--,--,--,--,Little Sioux-Soldier Basin
+06608500,"Soldier River at Pisgah, IA",02/11 00:00 CST,--,--,--,2.3,--,--,--,--,--,--,--,--,Little Sioux-Soldier Basin
+06610000,"Missouri River at Omaha, NE",02/11 00:00 CST,-0.0,--,--,--,--,--,--,--,--,--,--,--,Boyer-Middle Missouri Basin
+06610505,"Missouri River near Council Bluffs, IA",02/10 23:45 CST,--,--,--,--,--,--,--,--,--,Eqp,--,--,Boyer-Middle Missouri Basin
+,YSI,02/10 23:45 CST,0.0,--,--,--,Eqp,13.8,--,--,8.8,--,--,--,Boyer-Middle Missouri Basin
+06807000,"Missouri River at Nebraska City, NE",02/11 00:00 CST,0.1,--,--,--,--,--,--,--,--,Eqp,--,--,Boyer-Middle Missouri Basin
+06808500,"West Nishnabotna River at Randolph, IA",02/11 00:00 CST,Ssn,--,--,--,--,--,--,--,--,Ssn,Ssn,--,Nishnabotna-Lower Missouri Basin
+06813500,"Missouri River at Rulo, NE",02/11 00:30 CST,0.1,--,--,--,--,--,--,--,--,--,--,--,Nishnabotna-Lower Missouri Basin
+06817000,"Nodaway River at Clarinda, IA",02/11 00:15 CST,Ssn,--,-19.4,--,--,--,--,--,--,--,--,--,Nishnabotna-Lower Missouri Basin
+,,08/27 15:15 CDT,--,--,--,--,--,--,--,--,--,--,0.1,--,Nishnabotna-Lower Missouri Basin
+405747093233201,"McNay Research Stn nr Chariton, IA NADP Site IA23",02/10 22:00 CST,--,--,-13.0,--,--,--,--,--,--,--,--,--,Grand-Chariton Basin
