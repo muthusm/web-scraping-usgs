@@ -1,4 +1,4 @@
-# Web Scraping Data froM USGS 
+# Web Scraping Data from USGS 
 
 https://nwis.waterdata.usgs.gov/tn/nwis/current/?type=quality
 
