@@ -35,7 +35,6 @@ def save_to_file(begin_date, end_date, station, desired_parameters):
             writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow(headers)
         rows_html=bsObj.findAll('table')[2].findAll('tbody')[0].findAll('tr')
-        county = ""
         for row_html in rows_html:
             td_html = row_html.findAll('td')
             row = []
